@@ -1,4 +1,4 @@
-# v2ray-heroku
+# -he
 
 > ~~貌似新建的app有些需要科学访问~~，如果需要，请使用cloudflare worker CDN 或者 cloudflare tunnel 套一层。
 
@@ -15,7 +15,7 @@
 
 本项目是包含，
 
-- 一键部署 V2ray 到 heroku。
+- 一键部署 到 he。
 - 利用 Github action 实现 [重新部署](#重新部署)/[停止](#停止)/[启动](#启动)/[删除](#删除)。
 - 支持 heroku 的区域（us 和 eu）
 - **支持[多app和多账户](#使用-environments-实现-多账户多app-secrets-管理) [重新部署](#重新部署)/[停止](#停止)/[启动](#启动)/[删除](#删除)。**
